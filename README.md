@@ -1,4 +1,10 @@
-## Hi there 👋
+- 👋 Hi, I’m @tazioPSD
+- 👀 I’m interested in autonomous driving... but... I'm just trying to figure out about it!
+- 🌱 I’m currently learning ... path following, cone detection and trying to understand my dream/nightmares in an imaginary world called GAZEBO.
+- 💞️ I’m looking to collaborate with ... my pal friend @OrinTorinco-psd!
+- 📫 How to reach me ... come to UniPi!
+- 😄 Pronouns: ... ASUS ROG super duper beast!
+- ⚡ Fun fact: ... always power hungry!
 
 <!--
 **tazioPSD/tazioPSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
